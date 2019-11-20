@@ -1,8 +1,0 @@
-S -> NP VP
-NP -> ART
-NP -> ART N
-NP -> ART ADJ N
-NP -> PRON
-NP -> N
-VP -> V
-VP -> V NP
